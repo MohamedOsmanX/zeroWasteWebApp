@@ -606,3 +606,22 @@ h3 {
     width: 120px;
 }
 
+.f {
+	margin-bottom: 30px;
+}
+
+.sectioner-header {
+	margin-bottom: 30px; /* Adjust margin bottom to align the line with the heading */
+  }
+  
+  .line {
+	display: block;
+	margin: 0 auto; /* Center the line */
+	width: 60px; /* Adjust width as needed */
+	height: 2px; /* Adjust height as needed */
+	background-color: #000; /* Change color as needed */
+  }
+
+  
+  
+
